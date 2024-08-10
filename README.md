@@ -1,5 +1,5 @@
 # Preview
-https://github.com/user-attachments/assets/a382354e-6867-4891-a6a1-5a2209e17645
+https://github.com/user-attachments/assets/a65634d2-b4f5-48c1-a122-5b1467c6e407
 # Description
 Simple platformer game written in Rust with minimal but powerfull macroquad library. Game is in early stage of development, right now only basic movement, physics and collisions was implemented. 
 
