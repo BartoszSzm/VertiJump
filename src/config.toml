@@ -1,0 +1,18 @@
+# Game settings
+
+window_title = "VertiJump"
+fullscreen = false
+window_resizable = false
+window_dims = [1024, 768]
+camera_zoom_x = 3
+camera_zoom_y = 3
+player_tile_dims = [32, 32]
+spawn_point_x = 50.0
+spawn_point_y = 1200.0
+max_fps = 60
+
+
+[paths]
+player_texture_filepath = "src/assets/hero.png"
+map_filepath = "src/assets/tower.tmx"
+map_terrain_texture = "src/assets/tower.png"
